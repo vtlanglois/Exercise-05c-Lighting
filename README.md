@@ -1,6 +1,8 @@
 # Exercise-05c-Lighting
 Exercise for MSCH-C220, 2 November 2021
 
+A demonstration of this exercise is available at [https://youtu.be/i13v3jhP3qY](https://youtu.be/i13v3jhP3qY)
+
 The purpose of this exercise is for you to explore 3D lighting and camera movement in Godot. There are many steps, and some of the concepts are a little complicated, so I would recommend that you stop and test frequently. I will try to be as clear as possible.
 
 This exercise is loosely based on the How to light a 3d scene in Godot (3d tutorial) by GDQuest. The YouTube video is
